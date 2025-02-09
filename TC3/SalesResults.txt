@@ -1,0 +1,5 @@
+Resultados de la Computación de Ventas
+-------------------------------------
+Costo Total: $165235.37
+Errores encontrados: 2
+Tiempo de Ejecución: 0.01 segundos
